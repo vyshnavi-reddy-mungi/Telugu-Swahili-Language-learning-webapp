@@ -1,0 +1,231 @@
+NEG+1p+PRES+be able	we are not able	మేము చేయలేము
+2s+IMP+come	come	రండి
+2p+IMP+come	come	రండి
+2s+IMP+bring	bring	తీసుకురండి
+2p+IMP+bring	bring	తీసుకురండి
+2s+IMP+drink	drink	త్రాగండి
+2p+IMP+drink	drink	త్రాగండి
+2s+IMP+look	look	చూడు
+2p+IMP+look	look	చూడు
+2s+IMP+help	help	సహాయం
+2p+IMP+help	help	సహాయం
+2s+IMP+answer	answer	సమాధానం
+2p+IMP+answer	answer	సమాధానం
+2s+IMP+learn	learn	నేర్చుకుంటారు
+2p+IMP+learn	learn	నేర్చుకుంటారు
+1s+PRES+eat	I eat	నెను తిన్నాను
+NEG+1s+PRES+eat	I do not eat	నేను తినను
+2s+PRES+write	you write	నువ్వు వ్రాయి
+NEG+2s+PRES+write	you do not write	మీరు వ్రాయవద్దు
+1p+PRES+answer	we answer	మేము సమాధానం
+NEG+1p+PRES+answer	we do not answer	మేము సమాధానం చెప్పము
+1s+PAST+eat	I ate	నేను తిన్నాను
+NEG+1s+PAST+eat	I did not eat	నేను తినలేదు
+2s+PAST+write	you wrote	నీవు వ్రాశావు
+NEG+2s+PAST+write	you did not write	మీరు వ్రాయలేదు
+1p+PAST+answer	we answered	మేము సమాధానం చెప్పాము
+NEG+1p+PAST+answer	we did not answer	మేము సమాధానం చెప్పలేదు
+1s+PERF+eat	I have eaten	నేను తిన్నాను
+NEG+1s+PERF+eat	I have not eaten	నేను తినలేదు
+2s+PERF+write	you have written	మీరు వ్రాసారు
+NEG+2s+PERF+write	you have not written	మీరు వ్రాయలేదు
+1p+PERF+answer	we have answered	మేము సమాధానం చెప్పాము
+NEG+1p+PERF+answer	we have not answered	మేము సమాధానం చెప్పలేదు
+1s+FUT+eat	I will eat	నేను తింటాను
+NEG+1s+FUT+eat	I will not eat	నేను తినను
+2s+FUT+write	you will write	మీరు వ్రాస్తారు
+NEG+2s+FUT+write	you will not write	మీరు వ్రాయరు
+1p+FUT+answer	we will answer	మేము సమాధానం ఇస్తాము
+NEG+1p+FUT+answer	we will not answer	మేము సమాధానం చెప్పము
+NEG+3p+PRES+be suitable	they are not suitable	అవి సరిపోవు
+1s+PAST+open	I opened	నేను తెరిచిన
+1s+PAST+close	I closed	నేను మూసివేసాను
+NEG+1s+PERF+start	I have not started	నేను ప్రారంభించలేదు
+1s+PERF+start	I have started	నేను ప్రారంభించాను
+1s+PRES+mean	I mean	నేనేమంటానంటే
+2s+PRES+say	you say	మీరు చెప్పే
+3p+PAST+say	they said	వారు అన్నారు
+2s+PAST+say	you said	మీరు చెప్పారు
+2s+PRES+speak	you speak	నీవు మాట్లాడు
+2s+IMP+speak	speak	మాట్లాడతారు
+NEG+1s+PRES+speak	I do not speak	నేను మాట్లాడను
+2s+PRES+understand	you understand	నువ్వు తెలుసుకో
+NEG+1s+PRES+understand	I do not understand	నాకు అర్థం కాలేదు
+2s+PERF+understand	you have understood	మీరు అర్థం చేసుకున్నారు
+1s+PAST+converse	I conversed	నేను సంభాషించాను
+1p+PRES+request	we request	మేము అభ్యర్థిస్తున్నాము
+2s+IMP+write	write	వ్రాయడానికి
+2s+PRES+recommend	you recommend	మీరు సిఫార్సు చేస్తారు
+2s+IMP+confirm	confirm	నిర్ధారించండి
+1s+PAST+read	I read	నేను చదివాను
+1s+PRES+be named	I am named	నాకు పేరు పెట్టారు
+3s+PRES+be named	she is named	ఆమె పేరు పెట్టబడింది
+1s+PRES+come from	I come from	నేను నుండి వచ్చాను
+2s+PRES+come from	you come from	మీరు నుండి వచ్చారు
+1s+PERF+come from	I have come from	నేను నుండి వచ్చాను
+3p+PERF+live	they have lived	వారు జీవించారు
+1p+PRES+live	we live	మేము జీవిస్తున్నాము
+NEG+1p+PRES+live	we do not live	మేము జీవించము
+1p+PRES+stay	we stay	మేము ఉంటాము
+NEG+1p+PRES+stay	we do not stay	మేము ఉండము
+NEG+1s+FUT+die	I will not die	నేను చావను
+2s+PERF+be born	you have been born	మీరు పుట్టారు
+1s+PERF+be born	I have been born	నేను పుట్టాను
+1s+PERF+subtract	I have subtracted	నేను తీసివేసాను
+1p+FUT+pay	we will pay	మేము చెల్లిస్తాము
+1s+FUT+get	I will get	నేను పొందుతాను
+1s+PAST+get	I got	నేను పొందాను
+2s+PERF+bring	you have brought	మీరు తెచ్చారు
+2s+IMP+take	take	తీసుకోవడం
+2s+IMP+put	put	చాలు
+2s+PAST+put	you put	మీరు పెట్టండి
+1s+PAST+take	I took	నేను తీసుకున్నాను
+2s+IMP+pass	pass	పాస్
+2s+PERF+receive	you have received	మీరు పొందారు
+1s+PRES+come	I come	నేను వచ్చింది
+3s+PAST+come	she came	ఆమె వచ్చింది
+2s+PRES+go	you go	నీవు వెళ్ళు
+1p+PRES+depart	we depart	మేము బయలుదేరాము
+2s+IMP+depart	depart	బయలుదేరు
+1p+FUT+return	we will return	మేము తిరిగి వస్తాము
+1s+FUT+return	I will return	నేను తిరిగి వచ్చెదను
+2s+PAST+visit	you visited	మీరు సందర్శించారు
+2s+PRES+do	you do	నువ్వు చెయ్యి
+1p+PAST+arrive	we arrived	మేము చేరుకున్నాము
+1s+PERF+be lost	I have been lost	నేను పోగొట్టుకున్నాను
+NEG+1p+PERF+be lost	we have not been lost	మేము కోల్పోలేదు
+2s+IMP+turn	turn	మలుపు
+1p+PERF+arrive at	we have arrived at	మేము చేరుకున్నాము
+1s+PAST+run	I ran	నేను పరిగెత్తాను
+2s+PRES+sell	you sell	మీరు అమ్మండి
+2s+IMP+eat	eat	తినండి
+1s+PRES+wash	I wash	నేను కడుగుతాను
+2s+IMP+turn off	turn off	ఆఫ్ చేయండి
+2s+IMP+turn on	turn on	ఆరంభించండి
+1s+PRES+make	I make	నేను చేస్తాను
+2s+IMP+add	add	జోడించు
+2s+IMP+leave	leave	వదిలివేయండి
+1s+PAST+prepare	I prepared	నేను సిద్ధం చేసాను
+2s+PRES+mix	you mix	మీరు కలపండి
+1p+PRES+mix	we mix	మేము కలపాలి
+2s+IMP+boil	boil	ఉడకబెట్టండి
+1s+PRES+boil	I boil	నేను ఉడకబెట్టాను
+2s+IMP+cut	cut	కట్
+1p+FUT+repair	we will repair	మేము మరమ్మత్తు చేస్తాము
+1s+PAST+lose	I lost	నేను పోగొట్టుకున్నా
+1s+PRES+look for	I look for	నేను వెతుకుతున్నాను
+NEG+1s+PRES+know	I do not know	నాకు తెలియదు
+2s+PRES+know	you know	నీకు తెలుసు
+1s+PRES+remember	I remember	నాకు గుర్తుంది
+2s+IMP+remember	remember	గుర్తుంచుకోవాలి
+1s+PAST+remember	I remembered	నేను గుర్తుంచుకున్నాను
+1s+PERF+forget	I have forgotten	నేను మరచిపోయాను
+NEG+1s+PRES+forget	I do not forget	నేను మరచిపోను
+1s+FUT+ask	I will ask	నేను అడుగుతాను
+1p+PRES+learn	we learn	మేము నేర్చుకుంటాము
+1p+PERF+learn	we have learned	మేము నేర్చుకున్నాము
+2s+PERF+be wrong	you have been wrong	మీరు తప్పు చేశారు
+1s+PERF+be wrong	I have been wrong	నేను తప్పు చేశాను
+1s+PAST+think	I thought	నేను అనుకున్నాను
+2s+PRES+think	you think	నువ్వు ఆలోచించు
+2s+PRES+love	you love	నువ్వు ప్రేమిస్తున్నావ్
+NEG+1s+PRES+love	I do not love	నేను ప్రేమించను
+2s+PERF+be full	you have been full	మీరు నిండుగా ఉన్నారు
+1s+PERF+be full	I have been full	నేను నిండుగా ఉన్నాను
+2s+PERF+tire	you have tired	మీరు అలసిపోయారు
+1s+PRES+prefer	I prefer	నేను ఇష్టపడతాను
+1s+PRES+fear	I fear	నాకు భయం
+3p+PRES+fear	they fear	వారు భయపడతారు
+1s+PERF+be used to	I have been used to	నేను అలవాటు పడ్డాను
+NEG+1s+PERF+be used to	I have not been used to	నాకు అలవాటు లేదు
+2s+PERF+be used to	you have been used to	మీరు అలవాటు పడ్డారు
+1s+PRES+hate	I hate	నాకు అసహ్యం
+2s+PRES+listen	you listen	నువ్వు విను
+NEG+1s+PAST+listen	I did not listen	నేను వినలేదు
+2s+PRES+hear	you hear	నువ్వు విన్నావా, నీకు వినపడిందా
+1s+PAST+hear	I heard	నెను విన్నాను
+2s+IMP+look	look	చూడు
+2s+IMP+wait	wait	వేచి ఉండండి
+1s+PAST+wait	I waited	నేను వేచియున్నాను
+2s+IMP+stop	stop	ఆపండి
+2s+PERF+awaken	you have awakened	మీరు మేల్కొన్నారు
+3s+PERF+sleep	she has slept	ఆమె నిద్రపోయింది
+2s+IMP+sleep	sleep	నిద్ర
+1p+PRES+order	we order	మేము ఆర్డర్ చేస్తాము
+1s+PRES+hope	I hope	నేను ఆశిస్తున్నాను
+3p+PRES+hope	they hope	వారు ఆశిస్తున్నారు
+2s+PRES+plan	you plan	మీరు ప్లాన్ చేయండి
+1p+PRES+plan	we plan	మేము ప్లాన్ చేస్తాము
+1p+FUT+be late	we will be late	మేము ఆలస్యం అవుతాము
+1s+PRES+watch	I watch	నేను చూస్తున్నాను
+1s+PAST+think	I thought	నేను అనుకున్నాను
+1s+PRES+try	I try	నేను ప్రయత్నిస్త
+1p+PRES+argue	we argue	మేము వాదిస్తాము
+3p+PRES+argue	they argue	వారు వాదిస్తారు
+1p+FUT+play	we will play	మేము ఆడతాము
+2s+PRES+agree	you agree	మీరు అంగీకరిస్తున్నారు
+3s+PRES+agree	she agrees	ఆమె అంగీకరిస్తుంది
+NEG+1s+PRES+agree	I do not agree	నేను అంగీకరించను
+2s+IMP+continue	continue	కొనసాగుతుంది
+1p+FUT+continue	we will continue	మేము కొనసాగిస్తాము
+2s+IMP+wear	wear	ధరించడం
+1s+PERF+wear	I have worn	నేను ధరించాను
+3p+PERF+wear	they have worn	వారు ధరించారు
+2s+IMP+taste	taste	రుచి
+2s+PRES+pray	you pray	మీరు ప్రార్థించండి
+NEG+2s+PRES+need	you do not need	నీకు అవసరం లేదు
+1s+PAST+realize	I realized	నేను గ్రహించాను
+1p+PAST+decide	we decided	మేము నిర్ణయించుకున్నాం
+3s+PAST+decide	she decided	ఆమె నిర్ణయించుకుంది
+1s+PAST+decide	I decided	నేను నిర్ణయించుకున్నాను
+1p+FUT+share	we will share	మేము పంచుకుంటాము
+1p+FUT+share	we will share	మేము పంచుకుంటాము
+2s+IMP+sing	sing	పాడతారు
+2p+IMP+laugh	laugh	నవ్వు
+2s+PRES+laugh	you laugh	నువ్వు నవ్వు
+2p+PRES+play	ye play	మీరు ఆడండి
+2s+PERF+be happy	you have been happy	మీరు సంతోషంగా ఉన్నారు
+1p+PAST+be happy	we were happy	మేము సంతోషముగా ఉండేవాళ్ళము
+2s+PERF+be angry	you have been angry	మీరు కోపంగా ఉన్నారు
+2s+IMP+cross	cross	క్రాస్
+1s+PRES+be sick	I am sick	నేను అనారోగ్యంగా ఉన్నాను
+3s+PRES+be sick	she is sick	ఆమె నీరసంగా ఉంది
+3s+PAST+finish	she finished	ఆమె ముగించింది
+2s+PERF+finish	you have finished	మీరు పూర్తి చేసారు
+1p+FUT+finish	we will finish	మేము పూర్తి చేస్తాము
+2s+PRES+resemble	you resemble	మీరు పోలి ఉన్నారు
+2s+PRES+improve	you improve	మీరు మెరుగుపరచండి
+2s+PERF+exchange	you have exchanged	మీరు మార్పిడి చేసుకున్నారు
+1s+PAST+kill	I killed	నేను చంపాను
+3p+PRES+drive	they drive	వారు డ్రైవ్ చేస్తారు
+3p+PRES+plan	they plan	వారు ప్లాన్ చేస్తారు
+1p+PRES+plan	we plan	మేము ప్లాన్ చేస్తాము
+2s+PRES+be able	you are able	మీరు చేయగలరు
+3p+PRES+build	they build	వారు నిర్మిస్తారు
+1s+PAST+be shocked	I was shocked	నేను ఆశ్చర్యపోయాను
+3s+PRES+look great	she looks great	ఆమె చాలా బాగుంది
+2s+PERF+look great	you have looked great	మీరు గొప్పగా కనిపించారు
+3s+PAST+grow up	she grew up	ఆమె పెరిగింది
+3p+FUT+visit	they will visit	వారు సందర్శిస్తారు
+1s+PRES+visit	I visit	నేను సందర్శిస్తాను
+3p+FUT+close	they will close	వారు మూసివేస్తారు
+3s+PRES+cry	she cries	ఆమె ఏడుస్తుంది
+3p+FUT+steal	they will steal	వారు దొంగిలిస్తారు
+NEG+1s+PRES+believe	I do not believe	నేను నమ్మను
+1s+PRES+be required	I am required	నేను అవసరం
+1s+FUT+think about	I will think about	నేను ఆలోచిస్తాను
+3s+PERF+put on weight	she has put on weight	ఆమె బరువు పెరిగింది
+1s+PERF+lose weight	I have lost weight	నేను బరువు తగ్గాను
+1s+PAST+leave	I left	నేను వెళ్లిపోయాను
+1s+PRES+approach	I approach	నేను సమీపిస్తున్నాను
+1p+PRES+approach	we approach	మేము చేరుకుంటాము
+3s+PRES+approach	she approaches	ఆమె సమీపిస్తుంది
+1s+PAST+fall	I fell	నేను పడ్డాను
+NEG+3p+PRES+allow	they do not allow	వారు అనుమతించరు
+1p+PAST+rent	we rented	మేము అద్దెకు తీసుకున్నాము
+2s+PRES+be named	you are named	మీరు పేరు పెట్టారు
+3p+PAST+die	they died	వారు చనిపోయారు
+2s+PRES+care	you care	మీరు శ్రద్ధ వహించండి
+3s+PRES+study	she studies	ఆమె చదువుతున్నది
+3p+PRES+study	they study	వారు చదువుతారు
+1s+PRES+wish	I wish	నేను కోరుకుంటున్నాను
