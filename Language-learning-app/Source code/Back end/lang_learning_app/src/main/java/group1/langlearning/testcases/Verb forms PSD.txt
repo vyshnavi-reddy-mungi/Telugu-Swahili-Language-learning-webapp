@@ -35,7 +35,7 @@ die-died,die,die,died
 arrive-arrived,arrive,arrive,arrived
 arrive at-arrived at,arrives at,arrive at,arrived at
 think-thought,think,think,thought
-think about-thought about,thinks about,think about,thought about
+think about-thought about,think about,think about,thought about
 close-closed,close,close,closed
 open-opened,open,open,opened
 teach-taught,teach,teach,taught
@@ -120,7 +120,7 @@ clean-cleaned,clean,clean,cleaned
 forget-forgot,forget,forget,forgotten
 help-helped,help,help,helped
 pray-prayed,pray,pray,prayed
-say-said,says,say,said
+say-said,say,say,said
 be full-was full,is full,be full,full
 share-shared,share,share,shared
 be shocked-was shocked,is shocked,be shocked,shocked
@@ -143,7 +143,7 @@ watch-watched,watch,watch,watched
 plan-planned,plan,plan,planned
 walk-walked,walk,walk,walked
 visit-visited,visit,visit,visited
-make-made,makes,make,made
+make-made,make,make,made
 subtract-subtracted,subtract,subtract,subtracted
 come from-came from,come from,come from,come from
 suffice-sufficed,suffice,suffice,sufficed

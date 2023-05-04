@@ -1,5 +1,3 @@
-package group1.langlearning.testcases;
-
 // package main.java.group1.langlearning.utils;
 
 import java.io.BufferedReader;
@@ -69,7 +67,8 @@ public class TeluguTestcases {
             // InputStream inputStream = TeluguTestCases.class.getResourceAsStream("/TeluguTestcases.txt");
 
             // Create a reader to read the contents of the file
-            BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("E:\\PSD testcases\\TESTCASES\\TeluguTestcases.txt")));
+            // BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("E:\\PSD testcases\\TESTCASES\\TeluguTestcases.txt")));
+            BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream("E:\\PSD testcases\\TESTCASES\\test swahili.txt")));
 
             // Create a temporary file for writing the updated values
            BufferedWriter writer = new BufferedWriter(new FileWriter(new File("E:\\PSD testcases\\TESTCASES\\Telugu & English TestCases sheet.tsv")));
@@ -81,11 +80,11 @@ public class TeluguTestcases {
                 // Split the line into an array of values
                
 
-                EnglishSentenceRequestModel englishSentenceRequestModel = new EnglishSentenceRequestModel();
-                englishSentenceRequestModel = generateRequestModel(englishSentenceRequestModel,line);
+                // EnglishSentenceRequestModel englishSentenceRequestModel = new EnglishSentenceRequestModel();
+                // englishSentenceRequestModel = generateRequestModel(englishSentenceRequestModel,line);
                
-                String englishString = getEnglishSentence(englishSentenceRequestModel,verbList);
-               
+                // String englishString = getEnglishSentence(englishSentenceRequestModel,verbList);
+                String englishString = line;
                 String answerTeluguString = fetchTeluguString(englishString);
                
                // writer.write(String.join("\t", values));
@@ -111,7 +110,7 @@ public class TeluguTestcases {
 
         String translatedText = "";   
         String inputLang = "en"; // The input language code
-        String outputLang = "te"; // The output language code
+        String outputLang = "sw"; // The output language code
 
                     URL url = new URL("https://translate.googleapis.com/translate_a/single?client=gtx&sl=" + inputLang + "&tl=" + outputLang + "&dt=t&q=" + URLEncoder.encode(inputText, "UTF-8"));
                     HttpURLConnection conn = (HttpURLConnection) url.openConnection();

@@ -1,4 +1,4 @@
-package group1.langlearning.testcases;
+
 
 
 import java.io.BufferedReader;
@@ -17,11 +17,6 @@ import java.util.Map;
 // import org.springframework.web.bind.annotation.GetMapping;
 // import org.springframework.web.bind.annotation.RestController;
 
-<<<<<<< HEAD
-// import com.google.gson.Gson;
-// import com.google.gson.GsonBuilder;
-=======
->>>>>>> releasebranch
 
 // import group1.langlearning.entity.McqQuizSwahili;
 // import group1.langlearning.models.SwahiliSentenceRequestModel;
@@ -56,17 +51,10 @@ public class SwahiliTestcases {
             verbList.put(values[0],verbs);
     
         }
-<<<<<<< HEAD
-        for(Map.Entry<String, ArrayList<String>> hm:verbList.entrySet())
-        {
-           System.out.println(hm.getKey()+":"+hm.getValue());
-        }
-=======
         // for(Map.Entry<String, ArrayList<String>> hm:verbList.entrySet())
         // {
         //    System.out.println(hm.getKey()+":"+hm.getValue());
         // }
->>>>>>> releasebranch
     
 
         // InputStream inputStreamEnglishVerbs = SwahiliTestCases.class.getResourceAsStream("/English_Swahili verbs.tsv");
@@ -99,11 +87,6 @@ public class SwahiliTestcases {
                 // Split the line into an array of values
                 String[] values = line.split("\t");
 
-<<<<<<< HEAD
-                SwahiliSentenceRequestModel swahiliSentenceRequestModel = new SwahiliSentenceRequestModel();
-                swahiliSentenceRequestModel = generateRequestModel(swahiliSentenceRequestModel,values[0],swahiliEnglishVerbs);
-               
-=======
                 System.out.println("test case : "+line);
                 SwahiliSentenceRequestModel swahiliSentenceRequestModel = new SwahiliSentenceRequestModel();
                 swahiliSentenceRequestModel = generateRequestModel(swahiliSentenceRequestModel,values[0],swahiliEnglishVerbs);
@@ -112,26 +95,17 @@ public class SwahiliTestcases {
             //    swahiliSentenceRequestModel.getImpcheck()+ " "+ swahiliSentenceRequestModel.getFeature()+" "+
             //    swahiliSentenceRequestModel.getEnglishVerb());
 
->>>>>>> releasebranch
                 String englishString = getEnglishSentence(swahiliSentenceRequestModel,verbList);
                
                 String answer =   getSwahiliSentence(swahiliSentenceRequestModel);
 
                 // writer.write(String.join("\t", values));
                 writer.write(values[0]+"\t"+englishString+"\t"+answer);
-<<<<<<< HEAD
-
-                writer.newLine();
-                if(!values[2].equals(answer))
-                // System.out.println(values[2]+"-"+ answer);
-                System.out.println(values[0]+"\t"+englishString+"\t"+values[2]+"\t"+ answer);
-=======
                 // writer.write(values[0]+"\t"+answer);
                 writer.newLine();
                 // if(!values[2].equals(answer))
                 // System.out.println(values[2]+"-"+ answer);
                 // System.out.println(values[0]+"\t"+englishString+"\t"+values[2]+"\t"+ answer);
->>>>>>> releasebranch
             
             }
 
@@ -199,11 +173,7 @@ public class SwahiliTestcases {
             pastString = pastString + "they ";
                 
     
-<<<<<<< HEAD
-        if(verb.startsWith("be "))
-=======
         if(verb!=null && verb.startsWith("be "))
->>>>>>> releasebranch
         {
             if(subject.equals("1s") || subject.equals("3s"))
                 pastString = pastString + "was " + verb.substring(3);
@@ -298,11 +268,7 @@ private static String getPresentString(Map<String, ArrayList<String>> verbList, 
     else if(subject.equals("3p"))
         presentString = presentString + "they ";
 
-<<<<<<< HEAD
-    if(verb.startsWith("be "))
-=======
     if(verb!=null && verb.startsWith("be "))
->>>>>>> releasebranch
     {
         if(subject.equals("1s"))
             presentString = presentString + "am " + verb.substring(3);
@@ -395,11 +361,8 @@ private static String getNegativeString(Map<String, ArrayList<String>> verbList,
             else if(subject.equals("2s") || subject.equals("1p") || subject.equals("2p") || subject.equals("3p"))
                 negativeString = negativeString + "are not " + verb.substring(3);   
         }
-<<<<<<< HEAD
-=======
         else if(subject.equals("3s"))
         negativeString = negativeString + "does not " + verbForms.get(1);
->>>>>>> releasebranch
         else
         negativeString = negativeString + "do not " + verbForms.get(1);
     }
@@ -459,11 +422,7 @@ private static String getNegativeString(Map<String, ArrayList<String>> verbList,
         
     }
 
-<<<<<<< HEAD
-
-=======
       
->>>>>>> releasebranch
     public static String getSwahiliSentence(SwahiliSentenceRequestModel requestModel)
     {
         String finalAnswer = "";
@@ -495,7 +454,8 @@ private static String getNegativeString(Map<String, ArrayList<String>> verbList,
             Suffixes.put("3s", "ha");
             Suffixes.put("1p", "hatu");
             Suffixes.put("2p", "ham");
-            Suffixes.put("3p", "hava");
+            // Suffixes.put("3p", "hava");
+            Suffixes.put("3p" , "hawa");
             String suffix = "";
             suffix = Suffixes.get(subject);
             suffix = suffix + "ja";
@@ -524,55 +484,48 @@ private static String getNegativeString(Map<String, ArrayList<String>> verbList,
 		 verb = verb.substring(2);
 	     return suffix + verb;
 		}
-<<<<<<< HEAD
-    }  
-=======
     } 
->>>>>>> releasebranch
       }
-    public static String IMPVerbchange(String verb, String subject){
-        
-        Map<String, String> Suffixes = new HashMap<String, String>();
-        if(subject.equals("2s"))
-        {
-            if(verb.equals("kuja"))
+   
+      public static String IMPVerbchange(String verb, String subject){
+		System.out.println("imp....");
+		Map<String, String> Suffixes = new HashMap<String, String>();
+		if(subject.equals("2s"))
+		{
+			if(verb.equals("kuja"))
             {
                 return "njoo";
             }
-<<<<<<< HEAD
-            else if (verb.equals("kuleta"))
-            {
-                return "lete";
-=======
             else if (verb.equals("kuleta")||verb.equals("kujifunza"))
             {
                 verb = verb.substring(0, verb.length() - 1) + "e";
 				return verb;
->>>>>>> releasebranch
             }
             else if (verb.equals("kunywa"))
             {
                 return verb;
             }
-<<<<<<< HEAD
-            else if (verb.equals("kujifunza"))
-            {
-                verb = verb.substring(0, verb.length() - 1) + "e";
-=======
             else if (verb.equals("kula"))
             {
->>>>>>> releasebranch
 				return verb;
             }
-            else{
-            verb = verb.substring(2);
-            //verb = verb.substring(0, verb.length() - 1);
-            return verb;
-            }
-        }
-        else if(subject.equals("2p"))
-        {
-            if(verb.equals("kuja"))
+			
+			else{
+			if(Syllablecount(verb)== 2)
+			{
+				verb = verb;
+			}
+			else{
+			verb = verb.substring(2);
+			}
+			//verb = verb.substring(0, verb.length() - 1);
+			//System.out.println(verb);
+			return verb;
+			}
+		}
+		else if(subject.equals("2p"))
+		{
+			if(verb.equals("kuja"))
             {
                 return "njooni";
             }
@@ -585,19 +538,34 @@ private static String getNegativeString(Map<String, ArrayList<String>> verbList,
 				verb = verb.substring(0, verb.length() - 1) + "eni";
 				return verb;
 			}
-            else
-            {
-            verb = verb.substring(2);
-            verb = verb.substring(0, verb.length() - 1) + "eni";
-            return verb;
-            }
-        }
-        return verb;	
-    }
-
+			else
+			{ 
+				if(Syllablecount(verb)== 2)
+				{
+					verb = verb;
+				}
+				else{
+			verb = verb.substring(2);
+		}
+		}
+		if (verb.endsWith("i"))
+		{
+			//verb = verb.substring(0, verb.length() - 1) + "i";
+            verb = verb.substring(0, verb.length() - 1) + "ini";
+			return verb;
+		 }
+		 else{
+			verb = verb.substring(0, verb.length() - 1) + "eni";
+			return verb;
+		}
+			
+		}
+		return verb;	
+		
+	}
     public static String NegVerbchange(String verb, String tense, String subject){
-        
-        Map<String, String> Suffixes = new HashMap<String, String>();
+		
+		Map<String, String> Suffixes = new HashMap<String, String>();
         Suffixes.put("1s", "si");
         Suffixes.put("2s", "hu");
         Suffixes.put("3s", "ha");
@@ -606,11 +574,11 @@ private static String getNegativeString(Map<String, ArrayList<String>> verbList,
         Suffixes.put("3p", "hawa");
 
         String suffix = "";
-           if (tense.equals("PRES")) {
+        if (tense.equals("PRES")) {
 			verb = verb.substring(2);
-			if (verb.endsWith("u")) 
+			if (verb.endsWith("u")||verb.endsWith("e")||verb.endsWith("i") ) 
 			{
-				
+				verb = verb;
 			} 
 			else{
 			verb = verb.substring(0, verb.length() - 1) + "i";
@@ -619,17 +587,19 @@ private static String getNegativeString(Map<String, ArrayList<String>> verbList,
         } else if (tense.equals("PAST")) {
             suffix = Suffixes.get(subject);
         } else if (tense.equals("FUT")) {
-<<<<<<< HEAD
-			// verb = verb.substring(2);
-=======
+			if(Syllablecount(verb)== 2)
+			{
+				verb = verb;
+			}
+			else{
 			verb = verb.substring(2);
->>>>>>> releasebranch
+		}
             suffix = Suffixes.get(subject);
             suffix = suffix + "ta";
         }
 
         return suffix + verb;
-    }
+	}
     /*public static int Syllablecount(String verb) {
     String[] syllables = verb.split("(?<=[aeiou])|(?=[aeiou])|(?<=m|n|ny|ng|nd|mb|nz|kw|ch|sh|ph|th)|(?=m|n|ny|ng|nd|mb|nz|kw|ch|sh|ph|th)");
    
@@ -695,11 +665,8 @@ public static String Verbchange(String verb, String tense, String subject) {
     return suffix + verb;
 
 }
-<<<<<<< HEAD
-=======
 
 
->>>>>>> releasebranch
 }
 
 class SwahiliSentenceRequestModel {

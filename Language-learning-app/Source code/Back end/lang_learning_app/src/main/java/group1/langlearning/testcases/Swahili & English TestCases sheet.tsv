@@ -1,235 +1,3 @@
-NEG+1p+PRES+kuweza	we are not able	hatuwezi
-2s+IMP+kuja	come	njoo
-2p+IMP+kuja	come	njooni
-2s+IMP+kuleta	bring	lete
-2p+IMP+kuleta	bring	leteni
-2s+IMP+kunywa	drink	kunywa
-2p+IMP+kunywa	drink	kunyweni
-2s+IMP+kuangalia	look	angalia
-2p+IMP+kuangalia	look	angalieni
-2s+IMP+kusaidia	help	saidia
-2p+IMP+kusaidia	help	saidieni
-2s+IMP+kujibu	answer	jibu
-2p+IMP+kujibu	answer	jibuni
-2s+IMP+kujifunza	learn	kujifunze
-2p+IMP+kujifunza	learn	jifunzeni
-1s+PRES+kula	I eat	ninakula
-NEG+1s+PRES+kula	I do not eat	sili
-2s+PRES+kuandika	you write	unaandika
-NEG+2s+PRES+kuandika	you do not write	huandiki
-1p+PRES+kujibu	we answer	tunajibu
-NEG+1p+PRES+kujibu	we do not answer	hatujibu
-1s+PAST+kula	I ate	nilikula
-NEG+1s+PAST+kula	I did not eat	sikula
-2s+PAST+kuandika	you wrote	uliandika
-NEG+2s+PAST+kuandika	you did not write	hukuandika
-1p+PAST+kujibu	we answered	tulijibu
-NEG+1p+PAST+kujibu	we did not answer	hatukujibu
-1s+PERF+kula	I have eaten	nimekula
-NEG+1s+PERF+kula	I have not eaten	sijala
-2s+PERF+kuandika	you have written	umeandika
-NEG+2s+PERF+kuandika	you have not written	hujaandika
-1p+PERF+kujibu	we have answered	tumejibu
-NEG+1p+PERF+kujibu	we have not answered	hatujajibu
-1s+FUT+kula	I will eat	nitakula
-NEG+1s+FUT+kula	I will not eat	sitakula
-2s+FUT+kuandika	you will write	utaandika
-NEG+2s+FUT+kuandika	you will not write	hutakuandika
-1p+FUT+kujibu	we will answer	tutajibu
-NEG+1p+FUT+kujibu	we will not answer	hatutakujibu
-NEG+3p+PRES+kufaa	they are not suitable	hawafai
-1s+PAST+kufungua	I opened	nilifungua
-1s+PAST+kufunga	I closed	nilifunga
-NEG+1s+PERF+kuanza	I have not started	sijaanza
-1s+PERF+kuanza	I have started	nimeanza
-1s+PRES+kumaanisha	I mean	ninamaanisha
-2s+PRES+kusema	you say	unasema
-3p+PAST+kusema	they said	walisema
-2s+PAST+kusema	you said	ulisema
-2s+PRES+kuongea	you speak	unaongea
-2s+IMP+kuongea	speak	ongea
-NEG+1s+PRES+kuongea	I do not speak	siongei
-2s+PRES+kuelewa	you understand	unaelewa
-NEG+1s+PRES+kuelewa	I do not understand	sielewi
-2s+PERF+kuelewa	you have understood	umeelewa
-1s+PAST+kuzungumza	I conversed	nilizungumza
-1p+PRES+kuomba	we request	tunaomba
-2s+IMP+kuandika	write	andika
-2s+PRES+kusifia	you recommend	unasifia
-2s+IMP+kuhakikisha	confirm	hakikisha
-1s+PAST+kusoma	I read	nilisoma
-1s+PRES+kuitwa	I am named	ninaitwa
-3s+PRES+kuitwa	(s)he is named	anaitwa
-1s+PRES+kutoka	I come from	ninatoka
-2s+PRES+kutoka	you come from	unatoka
-1s+PERF+kutoka	I have come from	nimetoka
-3p+PERF+kuishi	they have lived	wameishi
-1p+PRES+kuishi	we live	tunaishi
-NEG+1p+PRES+kuishi	we do not live	hatuishi
-1p+PRES+kukaa	we stay	tunakaa
-NEG+1p+PRES+kukaa	we do not stay	hatukai
-NEG+1s+FUT+kufa	I will not die	sitakufa
-2s+PERF+kuzaliwa	you have been born	umezaliwa
-1s+PERF+kuzaliwa	I have been born	nimezaliwa
-1s+PERF+kutoa	I have subtracted	nimetoa
-1p+FUT+kulipa	we will pay	tutalipa
-1s+FUT+kupata	I will get	nitapata
-1s+PAST+kupata	I got	nilipata
-2s+PERF+kuleta	you have brought	umeleta
-2s+IMP+kuchukua	take	chukua
-2s+IMP+kuweka	put	weka
-2s+PAST+kuweka	you put	uliweka
-1s+PAST+kupeleka	I took	nilipeleka
-2s+IMP+kupita	pass	pita
-2s+PERF+kupokea	you have received	umepokea
-1s+PRES+kuja	I come	ninakuja
-3s+PAST+kuja	(s)he came	alikuja
-2s+PRES+kuelekea	you go	unaelekea
-1p+PRES+kuondoka	we depart	tunaondoka
-2s+IMP+kuondoka	depart	ondoka
-1p+FUT+kurudi	we will return	tutarudi
-1s+FUT+kurudi	I will return	nitarudi
-2s+PAST+kupitia	you visited	ulipitia
-2s+PRES+kufanya	you do	unafanya
-1p+PAST+kufika	we arrived	tulifika
-1s+PERF+kupotea	I have been lost	nimepotea
-NEG+1p+PERF+kupotea	we have not been lost	hatujapotea
-2s+IMP+kupinda	turn	pinda
-1p+PERF+kufikia	we have arrived at	tumefikia
-1s+PAST+kukimbia	I ran	nilikimbia
-2s+PRES+kuuza	you sell	unauza
-2s+IMP+kula	eat	la
-1s+PRES+kuosha	I wash	ninaosha
-2s+IMP+kuzima	turn off	zima
-2s+IMP+kuwasha	turn on	washa
-1s+PRES+kutengeneza	I make	ninatengeneza
-2s+IMP+kuongeza	add	ongeza
-2s+IMP+kuacha	leave	acha
-1s+PAST+kuanda	I prepared	nilianda
-2s+PRES+kuchanganya	you mix	unachanganya
-1p+PRES+kuchanganya	we mix	tunachanganya
-2s+IMP+kuchemsha	boil	chemsha
-1s+PRES+kuchemsha	I boil	ninachemsha
-2s+IMP+kukata	cut	kata
-1p+FUT+kurekebisha	we will repair	tutarekebisha
-1s+PAST+kupoteza	I lost	nilipoteza
-1s+PRES+kutafuta	I look for	ninatafuta
-NEG+1s+PRES+kujua	I do not know	sijui
-2s+PRES+kujua	you know	unajua
-1s+PRES+kukumbuka	I remember	ninakumbuka
-2s+IMP+kukumbuka	remember	kumbuka
-1s+PAST+kukumbuka	I remembered	nilikumbuka
-1s+PERF+kusahau	I have forgotten	nimesahau
-NEG+1s+PRES+kusahau	I do not forget	sisahau
-1s+FUT+kuuliza	I will ask	nitauliza
-1p+PRES+kujifunza	we learn	tunajifunza
-1p+PERF+kujifunza	we have learned	tumejifunza
-2s+PERF+kukosea	you have been wrong	umekosea
-1s+PERF+kukosea	I have been wrong	nimekosea
-1s+PAST+kufikiri	I thought	nilifikiri
-2s+PRES+kufikiri	you think	unafikiri
-2s+PRES+kupenda	you love	unapenda
-NEG+1s+PRES+kupenda	I do not love	sipendi
-2s+PERF+kushiba	you have been full	umeshiba
-1s+PERF+kushiba	I have been full	nimeshiba
-2s+PERF+kuchoka	you have tired	umechoka
-1s+PRES+kupendelea	I prefer	ninapendelea
-1s+PRES+kuogopa	I fear	ninaogopa
-3p+PRES+kuogopa	they fear	wanaogopa
-1s+PERF+kuzoea	I have been used to	nimezoea
-NEG+1s+PERF+kuzoea	I have not been used to	sijazoea
-2s+PERF+kuzoea	you have been used to	umezoea
-1s+PRES+kuchukia	I hate	ninachukia
-2s+PRES+kusikiliza	you listen	unasikiliza
-NEG+1s+PAST+kusikiliza	I did not listen	sikusikiliza
-2s+PRES+kusikia	you hear	unasikia
-1s+PAST+kusikia	I heard	nilisikia
-2s+IMP+kuangalia	look	angalia
-2s+IMP+kusubiri	wait	subiri
-1s+PAST+kusubiri	I waited	nilisubiri
-2s+IMP+kusimama	stop	simama
-2s+PERF+kuamka	you have awakened	umeamka
-3s+PERF+kulala	(s)he has slept	amelala
-2s+IMP+kulala	sleep	lala
-1p+PRES+kuagiza	we order	tunaagiza
-1s+PRES+kutumaini	I hope	ninatumaini
-3p+PRES+kutumaini	they hope	wanatumaini
-2s+PRES+kutegemea	you plan	unategemea
-1p+PRES+kutegemea	we plan	tunategemea
-1p+FUT+kuchelewa	we will be late	tutachelewa
-1s+PRES+kutazama	I watch	ninatazama
-1s+PAST+kuwaza	I thought	niliwaza
-1s+PRES+kujaribu	I try	ninajaribu
-1p+PRES+kugombana	we argue	tunagombana
-3p+PRES+kugombana	they argue	wanagombana
-1p+FUT+kucheza	we will play	tutacheza
-2s+PRES+kukubali	you agree	unakubali
-3s+PRES+kukubali	(s)he agrees	anakubali
-NEG+1s+PRES+kukubali	I do not agree	sikubali
-2s+IMP+kuendelea	continue	endelea
-1p+FUT+kuendelea	we will continue	tutaendelea
-2s+IMP+kuvaa	wear	vaa
-1s+PERF+kuvaa	I have worn	nimevaa
-3p+PERF+kuvaa	they have worn	wamevaa
-2s+IMP+kuonja	taste	onja
-2s+PRES+kusali	you pray	unasali
-NEG+2s+PRES+kuhitaji	you do not need	huhitaji
-1s+PAST+kutambua	I realized	nilitambua
-1p+PAST+kuamua	we decided	tuliamua
-3s+PAST+kuamua	(s)he decided	aliamua
-1s+PAST+kuamua	I decided	niliamua
-1p+FUT+kushiriki	we will share	tutashiriki
-1p+FUT+kugawana	we will share	tutagawana
-2s+IMP+kuimba	sing	imba
-2p+IMP+kucheka	laugh	chekeni
-2s+PRES+kucheka	you laugh	unacheka
-2p+PRES+kucheza	ye play	mnacheza
-2s+PERF+kufurahi	you have been happy	umefurahi
-1p+PAST+kufurahi	we were happy	tulifurahi
-2s+PERF+kukasirika	you have been angry	umekasirika
-2s+IMP+kuvuka	cross	vuka
-1s+PRES+kuumwa	I am sick	ninaumwa
-3s+PRES+kuumwa	(s)he is sick	anaumwa
-3s+PAST+kumaliza	(s)he finished	alimaliza
-2s+PERF+kumaliza	you have finished	umemaliza
-1p+FUT+kumaliza	we will finish	tutamaliza
-2s+PRES+kufanana	you resemble	unafanana
-2s+PRES+kujitahidi	you improve	unajitahidi
-2s+PERF+kubadilishana	you have exchanged	umebadilishana
-1s+PAST+kuua	I killed	niliua
-3p+PRES+kuendesha	they drive	wanaendesha
-3p+PRES+kupanga	they plan	wanapanga
-1p+PRES+kupanga	we plan	tunapanga
-2s+PRES+kuweza	you are able	unaweza
-3p+PRES+kujenga	they build	wanajenga
-1s+PAST+kushtuka	I was shocked	nilishtuka
-3s+PRES+kupendeza	(s)he looks great	anapendeza
-2s+PERF+kupendeza	you have looked great	umependeza
-3s+PAST+kukulia	(s)he grew up	alikulia
-3p+FUT+kutembelea	they will visit	watatembelea
-1s+PRES+kutembelea	I visit	ninatembelea
-3p+FUT+kufunga	they will close	watafunga
-3s+PRES+kulia	(s)he cries	analia
-3p+FUT+kuiba	they will steal	wataiba
-NEG+1s+PRES+kuamini	I do not believe	siamini
-1s+PRES+kustahili	I am required	ninastahili
-1s+FUT+kufikiria	I will think about	nitafikiria
-3s+PERF+kunenepa	(s)he has put on weight	amenenepa
-1s+PERF+kukonda	I have lost weight	nimekonda
-1s+PAST+kuacha	I left	niliacha
-1s+PRES+kukaribia	I approach	ninakaribia
-1p+PRES+kukaribia	we approach	tunakaribia
-3s+PRES+kukaribia	(s)he approaches	anakaribia
-1s+PAST+kuanguka	I fell	nilianguka
-NEG+3p+PRES+kuruhusu	they do not allow	hawaruhusu
-1p+PAST+kukodishwa	we rented	tulikodishwa
-2s+PRES+kuitwa	you are named	unaitwa
-3p+PAST+kufariki	they died	walifariki
-2s+PRES+kujali	you care	unajali
-3s+PRES+kusomea	(s)he studies	anasomea
-3p+PRES+kusomea	they study	wanasomea
-1s+PRES+kutamani	I wish	ninatamani
-=======
 3s+PAST+kujifunza	(s)he learned	alijifunza
 NEG+2s+PAST+kuandika	you did not write	hukuandika
 1p+PAST+kufa	we died	tulikufa
@@ -283,7 +51,7 @@ NEG+1s+PRES+kukodisha	I do not rent	sikodishi
 3s+PRES+kuendelea	(s)he continues	anaendelea
 1p+PERF+kuamua	we have decided	tumeamua
 NEG+2p+PAST+kutaka	ye did not want	hamkutaka
-NEG+3p+PERF+kuwasiliana	they have not communicated	havajawasiliana
+NEG+3p+PERF+kuwasiliana	they have not communicated	hawajawasiliana
 3p+PERF+kuchoka	they have tired	wamechoka
 2p+PRES+kuimba	ye sing	mnaimba
 NEG+2p+PERF+kushiriki	ye have not shared	hamjashiriki
@@ -313,7 +81,7 @@ NEG+1p+PERF+kupita	we have not passed	hatujapita
 3p+FUT+kurudi	they will return	watarudi
 NEG+3s+PAST+kuhitaji	(s)he did not need	hakuhitaji
 NEG+1p+FUT+kupendelea	we will not prefer	hatutapendelea
-NEG+3p+PERF+kuelewa	they have not understood	havajaelewa
+NEG+3p+PERF+kuelewa	they have not understood	hawajaelewa
 2s+IMP+kununua	buy	nunua
 NEG+2p+FUT+kupinda	ye will not turn	hamtapinda
 NEG+1s+PERF+kuchelewa	I have not been late	sijachelewa
@@ -343,7 +111,7 @@ NEG+2p+PRES+kueleza	ye do not explain	hamelezi
 1p+PAST+kupoteza	we lost	tulipoteza
 NEG+3s+PAST+kupa	(s)he did not give	hakupa
 NEG+1p+PAST+kununua	we did not buy	hatukununua
-NEG+3p+PERF+kusikia	they have not heard	havajasikia
+NEG+3p+PERF+kusikia	they have not heard	hawajasikia
 2p+FUT+kujifunza	ye will learn	mtajifunza
 3p+PRES+kutumaini	they hope	wanatumaini
 NEG+1p+PRES+kuumwa	we are not sick	hatuumwi
@@ -383,7 +151,7 @@ NEG+2p+PAST+kumaliza	ye did not finish	hamkumaliza
 3s+PRES+kutembelea	(s)he visits	anatembelea
 3s+PRES+kuanza	(s)he starts	anaanza
 2s+FUT+kutaka	you will want	utataka
-NEG+3p+PERF+kuishi	they have not lived	havajaishi
+NEG+3p+PERF+kuishi	they have not lived	hawajaishi
 3s+PAST+kutarajia	(s)he expected	alitarajia
 NEG+1s+FUT+kunenepa	I will not put on weight	sitanenepa
 NEG+2s+PAST+kutambua	you did not realize	hukutambua
@@ -398,7 +166,7 @@ NEG+1p+FUT+kutoa	we will not subtract	hatutatoa
 NEG+1s+PAST+kuitwa	I was not named	sikuitwa
 1s+FUT+kuuma	I will bite	nitauma
 1s+PAST+kupunguza	I reduced	nilipunguza
-2p+IMP+kupa	give	peni
+2p+IMP+kupa	give	kupeni
 3s+PERF+kuendelea	(s)he has continued	ameendelea
 NEG+1s+FUT+kujitahidi	I will not improve	sitajitahidi
 NEG+3s+PERF+kuonja	(s)he has not tasted	hajaonja
@@ -430,7 +198,7 @@ NEG+2s+FUT+kuchukua	you will not take	hutachukua
 NEG+3s+PERF+kufikiri	(s)he has not thought	hajafikiri
 NEG+3s+FUT+kuumwa	(s)he will not be sick	hataumwa
 1p+PRES+kuzoea	we are used to	tunazoea
-NEG+3p+PERF+kupika	they have not cooked	havajapika
+NEG+3p+PERF+kupika	they have not cooked	hawajapika
 2p+IMP+kujibu	answer	jibuni
 NEG+1s+PRES+kuchagua	I do not choose	sichagui
 NEG+1s+PAST+kutegemea	I did not plan	sikutegemea
@@ -476,7 +244,7 @@ NEG+2p+FUT+kuagiza	ye will not order	hamtaagiza
 NEG+3s+PERF+kuishi	(s)he has not lived	hajaishi
 1p+PAST+kukonda	we lost weight	tulikonda
 NEG+1s+PERF+kukimbia	I have not run	sijakimbia
-NEG+3p+PERF+kuchanganya	they have not mixed	havajachanganya
+NEG+3p+PERF+kuchanganya	they have not mixed	hawajachanganya
 NEG+1s+PRES+kufanana	I do not resemble	sifanani
 1s+PERF+kununua	I have bought	nimenunua
 NEG+1p+PAST+kuruhusu	we did not allow	hatukuruhusu
@@ -540,7 +308,7 @@ NEG+1s+PRES+kusema	I do not say	sisemi
 1p+PERF+kugusa	we have touched	tumegusa
 3p+FUT+kutembelea	they will visit	watatembelea
 2s+PRES+kupumzika	you rest	unapumzika
-NEG+3p+PERF+kuvuka	they have not crossed	havajavuka
+NEG+3p+PERF+kuvuka	they have not crossed	hawajavuka
 NEG+3s+FUT+kuchoka	(s)he will not tire	hatachoka
 NEG+2p+FUT+kukasirika	ye will not be angry	hamtakasirika
 3s+FUT+kucheka	(s)he will laugh	atacheka
@@ -589,7 +357,7 @@ NEG+3s+PERF+kuchemsha	(s)he has not boiled	hajachemsha
 2p+IMP+kupokea	receive	pokeeni
 3s+PAST+kukata	(s)he cut	alikata
 1p+PAST+kuuliza	we asked	tuliuliza
-2p+IMP+kuhitaji	need	hitajeni
+2p+IMP+kuhitaji	need	hitajini
 2s+IMP+kuogelea	swim	ogelea
 NEG+1s+PAST+kuuliza	I did not ask	sikuuliza
 NEG+1s+PRES+kuendesha	I do not drive	siendeshi
@@ -608,7 +376,7 @@ NEG+3p+PAST+kuonja	they did not taste	hawakuonja
 2s+PAST+kutamani	you wished	ulitamani
 2s+PERF+kusumbuka	you have worried	umesumbuka
 2p+IMP+kuamua	decide	amueni
-NEG+3p+PERF+kusafisha	they have not cleaned	havajasafisha
+NEG+3p+PERF+kusafisha	they have not cleaned	hawajasafisha
 3p+PERF+kufaa	they have been suitable	wamefaa
 NEG+1s+PAST+kula	I did not eat	sikula
 NEG+2s+PAST+kuelewa	you did not understand	hukuelewa
@@ -637,7 +405,7 @@ NEG+1p+PAST+kufanyika	we did not happen	hatukufanyika
 NEG+2s+PAST+kuwasha	you did not turn on	hukuwasha
 NEG+3p+PAST+kufurahi	they were not happy	hawakufurahi
 3s+PRES+kusumbuka	(s)he worries	anasumbuka
-NEG+3p+PERF+kutamani	they have not wished	havajatamani
+NEG+3p+PERF+kutamani	they have not wished	hawajatamani
 NEG+1p+FUT+kupita	we will not pass	hatutapita
 1s+PERF+kusumbuka	I have worried	nimesumbuka
 3p+PRES+kuogopa	they fear	wanaogopa
@@ -675,7 +443,7 @@ NEG+3s+PAST+kuanza	(s)he did not start	hakuanza
 NEG+1p+PRES+kukonda	we do not lose weight	hatukondi
 2s+PAST+kuosha	you washed	uliosha
 NEG+2p+FUT+kupika	ye will not cook	hamtapika
-NEG+3p+PERF+kuzungumza	they have not conversed	havajazungumza
+NEG+3p+PERF+kuzungumza	they have not conversed	hawajazungumza
 NEG+2s+PERF+kukumbuka	you have not remembered	hujakumbuka
 3p+PAST+kuhitaji	they needed	walihitaji
 NEG+3p+PAST+kupinda	they did not turn	hawakupinda
@@ -730,7 +498,7 @@ NEG+1s+PERF+kufunza	I have not taught	sijafunza
 1s+PAST+kula	I ate	nilikula
 NEG+1p+PERF+kukubali	we have not agreed	hatujakubali
 1s+FUT+kustarehe	I will relax	nitastarehe
-NEG+3p+PERF+kutembea	they have not walked	havajatembea
+NEG+3p+PERF+kutembea	they have not walked	hawajatembea
 NEG+2p+PAST+kuagiza	ye did not order	hamkuagiza
 2p+PAST+kutosha	ye sufficed	mlitosha
 3s+PERF+kuisha	(s)he has ended	ameisha
@@ -745,7 +513,7 @@ NEG+3s+PAST+kuja	(s)he did not come	hakuja
 NEG+3p+FUT+kustahili	they will not be required	hawatastahili
 NEG+2s+PERF+kuripoti	you have not reported	hujaripoti
 NEG+1p+PERF+kuonyesha	we have not shown	hatujaonyesha
-NEG+3p+PERF+kuomba	they have not requested	havajaomba
+NEG+3p+PERF+kuomba	they have not requested	hawajaomba
 3p+PAST+kuongeza	they added	waliongeza
 NEG+3p+FUT+kuelewa	they will not understand	hawataelewa
 2s+FUT+kutarajia	you will expect	utatarajia
@@ -759,7 +527,7 @@ NEG+2s+PERF+kuchanganya	you have not mixed	hujachanganya
 2s+IMP+kujenga	build	jenga
 1s+PRES+kufikia	I arrive at	ninafikia
 NEG+1s+PERF+kufanana	I have not resembled	sijafanana
-2p+IMP+kufariki	die	farikeni
+2p+IMP+kufariki	die	farikini
 NEG+2p+PRES+kusomea	ye do not studies	hamsomei
 1s+PERF+kubisha	I have disagreed	nimebisha
 NEG+2p+PERF+kusimama	ye have not stopped	hamjasimama
@@ -768,7 +536,7 @@ NEG+1p+PRES+kutegemea	we do not plan	hatutegemei
 NEG+2s+PAST+kufa	you did not die	hukufa
 2s+PRES+kutarajia	you expect	unatarajia
 1p+PERF+kufunza	we have taught	tumefunza
-NEG+3p+PERF+kuanza	they have not started	havajaanza
+NEG+3p+PERF+kuanza	they have not started	hawajaanza
 2s+IMP+kuingia	enter	ingia
 NEG+1p+PRES+kujaribu	we do not try	hatujaribu
 2p+PAST+kugawana	ye shared	mligawana
@@ -819,7 +587,7 @@ NEG+2s+PAST+kuchemsha	you did not boil	hukuchemsha
 2s+IMP+kurekebisha	repair	rekebisha
 2p+PRES+kukaribia	ye approach	mnakaribia
 NEG+2p+FUT+kustarehe	ye will not relax	hamtastarehe
-NEG+3p+PERF+kufaa	they have not been suitable	havajafaa
+NEG+3p+PERF+kufaa	they have not been suitable	hawajafaa
 NEG+1p+FUT+kuamini	we will not believe	hatutaamini
 NEG+2p+PRES+kutembelea	ye do not visit	hamtembelei
 2p+IMP+kuwasha	turn on	washeni
@@ -827,7 +595,7 @@ NEG+2p+PRES+kutembelea	ye do not visit	hamtembelei
 NEG+1s+PAST+kufikiri	I did not think	sikufikiri
 2s+IMP+kueleza	explain	eleza
 NEG+2p+PAST+kushiriki	ye did not share	hamkushiriki
-NEG+3p+PERF+kuisha	they have not ended	havajaisha
+NEG+3p+PERF+kuisha	they have not ended	hawajaisha
 NEG+3s+PAST+kupumzika	(s)he did not rest	hakupumzika
 1p+PRES+kushiriki	we share	tunashiriki
 NEG+1p+PAST+kukonda	we did not lose weight	hatukukonda
@@ -840,7 +608,7 @@ NEG+1p+PAST+kugombana	we did not argue	hatukugombana
 NEG+3s+FUT+kujaribu	(s)he will not try	hatajaribu
 NEG+3p+PAST+kuwaza	they did not think	hawakuwaza
 2s+IMP+kupumzika	rest	pumzika
-NEG+3p+PERF+kuruhusu	they have not allowed	havajaruhusu
+NEG+3p+PERF+kuruhusu	they have not allowed	hawajaruhusu
 NEG+1s+PAST+kufanyika	I did not happen	sikufanyika
 NEG+1p+PERF+kukata	we have not cut	hatujakata
 1s+PRES+kubadilishana	I exchange	ninabadilishana
@@ -854,7 +622,7 @@ NEG+1s+PAST+kuwasiliana	I did not communicate	sikuwasiliana
 2p+IMP+kupeleka	take	pelekeni
 2p+PAST+kusumbuka	ye worried	mlisumbuka
 2s+PERF+kuitwa	you have been named	umeitwa
-NEG+1s+PRES+kustarehe	I do not relax	sistarehi
+NEG+1s+PRES+kustarehe	I do not relax	sistarehe
 2p+IMP+kuagiza	order	agizeni
 2p+PERF+kuamini	ye have believed	mmeamini
 NEG+3p+PAST+kuomba	they did not request	hawakuomba
@@ -866,7 +634,7 @@ NEG+1s+PAST+kuvaa	I did not wear	sikuvaa
 NEG+1p+PERF+kuchagua	we have not chosen	hatujachagua
 1s+FUT+kuanza	I will start	nitaanza
 NEG+2p+PAST+kutoka	ye did not come from	hamkutoka
-NEG+3p+PERF+kutengeneza	they have not made	havajatengeneza
+NEG+3p+PERF+kutengeneza	they have not made	hawajatengeneza
 3p+PAST+kusema	they said	walisema
 NEG+3s+FUT+kufaa	(s)he will not be suitable	hatafaa
 NEG+2s+PRES+kukasirika	you are not angry	hukasiriki
@@ -905,7 +673,7 @@ NEG+1s+PERF+kujitahidi	I have not improved	sijajitahidi
 NEG+2p+PAST+kukodisha	ye did not rent	hamkukodisha
 1p+PRES+kupitia	we visit	tunapitia
 NEG+1s+PRES+kuishi	I do not live	siishi
-NEG+3p+PERF+kutoa	they have not subtracted	havajatoa
+NEG+3p+PERF+kutoa	they have not subtracted	hawajatoa
 3s+FUT+kubadilishana	(s)he will exchange	atabadilishana
 3p+PRES+kuonekana	they resemble	wanaonekana
 NEG+1s+PAST+kukaanga	I did not fry	sikukaanga
@@ -917,7 +685,7 @@ NEG+1p+PAST+kutembea	we did not walk	hatukutembea
 1s+PERF+kuripoti	I have reported	nimeripoti
 1p+FUT+kupokea	we will receive	tutapokea
 NEG+3p+FUT+kufikia	they will not arrive at	hawatafikia
-NEG+3p+FUT+kuja	they will not come	hawataja
+NEG+3p+FUT+kuja	they will not come	hawatakuja
 3p+PRES+kufikia	they arrive at	wanafikia
 1s+PERF+kuhakikisha	I have confirmed	nimehakikisha
 NEG+1p+PERF+kupendeza	we have not looked great	hatujapendeza
@@ -927,7 +695,7 @@ NEG+1p+PERF+kupendeza	we have not looked great	hatujapendeza
 NEG+1p+FUT+kwisha	we will not finish	hatutaisha
 3s+PAST+kusali	(s)he prayed	alisali
 NEG+1s+PRES+kupeleka	I do not take	sipeleki
-NEG+3p+PERF+kufariki	they have not died	havajafariki
+NEG+3p+PERF+kufariki	they have not died	hawajafariki
 2s+IMP+kusema	say	sema
 1s+PRES+kuchanganya	I mix	ninachanganya
 NEG+3s+FUT+kukosea	(s)he will not be wrong	hatakosea
@@ -978,7 +746,7 @@ NEG+3p+PRES+kuomba	they do not request	hawaombi
 2s+IMP+kuendesha	drive	endesha
 2p+PAST+kushiba	ye were full	mlishiba
 3p+PAST+kupeleka	they took	walipeleka
-NEG+3p+PERF+kuchagua	they have not chosen	havajachagua
+NEG+3p+PERF+kuchagua	they have not chosen	hawajachagua
 NEG+2s+PERF+kupata	you have not got	hujapata
 1p+PERF+kuleta	we have brought	tumeleta
 1p+PERF+kupata	we have got	tumepata
@@ -1018,7 +786,7 @@ NEG+1p+PERF+kutumia	we have not used	hatujatumia
 2p+PRES+kusafisha	ye clean	mnasafisha
 NEG+3s+PERF+kufariki	(s)he has not died	hajafariki
 3p+PRES+kuwasha	they turn on	wanawasha
-NEG+1p+PRES+kustarehe	we do not relax	hatustarehi
+NEG+1p+PRES+kustarehe	we do not relax	hatustarehe
 2p+PERF+kubadilishana	ye have exchanged	mmebadilishana
 2s+PERF+kuogelea	you have swum	umeogelea
 1s+FUT+kuondoka	I will depart	nitaondoka
@@ -1092,10 +860,10 @@ NEG+2s+FUT+kujenga	you will not build	hutajenga
 NEG+2p+FUT+kuwaza	ye will not think	hamtawaza
 1s+FUT+kugombana	I will argue	nitagombana
 NEG+3p+PRES+kukubali	they do not agree	hawakubali
-NEG+3p+PERF+kujitahidi	they have not improved	havajajitahidi
+NEG+3p+PERF+kujitahidi	they have not improved	hawajajitahidi
 3s+FUT+kuamini	(s)he will believe	ataamini
 3s+FUT+kuvuka	(s)he will cross	atavuka
-NEG+3p+PERF+kufanana	they have not resembled	havajafanana
+NEG+3p+PERF+kufanana	they have not resembled	hawajafanana
 NEG+1s+PRES+kuuza	I do not sell	siuzi
 1s+PRES+kufanyika	I happen	ninafanyika
 3s+PERF+kuchukia	(s)he has hated	amechukia
@@ -1121,8 +889,8 @@ NEG+1p+PAST+kukodisha	we did not rent	hatukukodisha
 2p+PRES+kuondoka	ye depart	mnaondoka
 2s+PERF+kupokea	you have received	umepokea
 2p+FUT+kuanza	ye will start	mtaanza
-NEG+2p+FUT+kuja	ye will not come	hamtaja
-NEG+3p+PERF+kupumzika	they have not rested	havajapumzika
+NEG+2p+FUT+kuja	ye will not come	hamtakuja
+NEG+3p+PERF+kupumzika	they have not rested	hawajapumzika
 3p+PRES+kugawana	they share	wanagawana
 1p+PERF+kufikiria	we have thought about	tumefikiria
 NEG+3s+FUT+kupitia	(s)he will not visit	hatapitia
@@ -1143,7 +911,7 @@ NEG+3s+PRES+kuambia	(s)he does not tell	haambii
 NEG+3s+PRES+kuanguka	(s)he does not fall	haanguki
 NEG+1p+FUT+kuandika	we will not write	hatutaandika
 1s+PERF+kuzoea	I have been used to	nimezoea
-NEG+3s+FUT+kuja	(s)he will not come	hataja
+NEG+3s+FUT+kuja	(s)he will not come	hatakuja
 NEG+1s+PERF+kuvunja	I have not broken	sijavunja
 NEG+3s+PRES+kuingia	(s)he does not enter	haingii
 1p+PERF+kupita	we have passed	tumepita
@@ -1158,10 +926,10 @@ NEG+1p+PERF+kuelewa	we have not understood	hatujaelewa
 1s+PAST+kuamua	I decided	niliamua
 1s+PRES+kuumwa	I am sick	ninaumwa
 2p+PERF+kutafuta	ye have looked for	mmetafuta
-NEG+3s+PRES+kustarehe	(s)he does not relax	hastarehi
+NEG+3s+PRES+kustarehe	(s)he does not relax	hastarehe
 1p+FUT+kuuma	we will bite	tutauma
 NEG+2p+PAST+kutambua	ye did not realize	hamkutambua
-NEG+3p+PERF+kuingia	they have not entered	havajaingia
+NEG+3p+PERF+kuingia	they have not entered	hawajaingia
 2p+PRES+kuchoka	ye tire	mnachoka
 NEG+2s+PRES+kuondoka	you do not depart	huondoki
 1s+PAST+kusali	I prayed	nilisali
@@ -1189,7 +957,7 @@ NEG+1s+PAST+kucheza	I did not play	sikucheza
 2p+FUT+kuwasha	ye will turn on	mtawasha
 NEG+1p+PERF+kuisha	we have not ended	hatujaisha
 3p+FUT+kukulia	they will grow up	watakulia
-2s+IMP+kufa	die	fa
+2s+IMP+kufa	die	kufa
 2s+FUT+kuiba	you will steal	utaiba
 NEG+2s+FUT+kuumwa	you will not be sick	hutaumwa
 2p+IMP+kucheza	play	chezeni
@@ -1204,7 +972,7 @@ NEG+1s+PERF+kuonja	I have not tasted	sijaonja
 NEG+1s+PERF+kuhisi	I have not felt	sijahisi
 NEG+3p+PAST+kuandika	they did not write	hawakuandika
 NEG+1p+PAST+kugawana	we did not share	hatukugawana
-NEG+3p+PERF+kutoka	they have not come from	havajatoka
+NEG+3p+PERF+kutoka	they have not come from	hawajatoka
 1p+PAST+kuosha	we washed	tuliosha
 1p+FUT+kupendeza	we will look great	tutapendeza
 3s+PRES+kufaa	(s)he is suitable	anafaa
@@ -1228,5 +996,5 @@ NEG+3s+FUT+kuangalia	(s)he will not look	hataangalia
 NEG+1s+FUT+kupeleka	I will not take	sitapeleka
 2s+PERF+kusubiri	you have waited	umesubiri
 NEG+2s+PAST+kuanda	you did not prepare	hukuanda
-NEG+3p+PERF+kunywa	they have not drunk	havajanywa
+NEG+3p+PERF+kunywa	they have not drunk	hawajanywa
 NEG+2p+PRES+kuzima	ye do not turn off	hamzimi
