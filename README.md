@@ -1,4 +1,4 @@
-Telugu-Swahili-Language-learning-webapp project is a web application designed to help users learn the Telugu and Swahili languages. The application has several features that make language learning interactive and engaging, including games, quizzes, and vocabulary lists.
+LinguaVista is a Telugu-Swahili-Language-learning-webapp project is a web application designed to help users learn the Telugu and Swahili languages. The application has several features that make language learning interactive and engaging, including games, quizzes, and vocabulary lists.
 
 The project is developed using various software development principles such as agile methodology, continuous integration and deployment, and test-driven development. The project follows the MVC (Model-View-Controller) architecture pattern to organize the code and make it more maintainable.
 
